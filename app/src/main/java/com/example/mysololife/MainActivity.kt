@@ -17,6 +17,7 @@ import com.google.firebase.ktx.Firebase
  * Toast를 사용할 때 왜 context를 사용할까
  * 만일 레이아웃을 꾸밀 때 1920x1080 기준으로 라이브러리를 만든다면?
  * 이미 띄어져있는 액티비티들을 다 종료하고 싶다면?
+ *
  */
 
 class MainActivity : AppCompatActivity() {
